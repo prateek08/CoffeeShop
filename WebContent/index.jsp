@@ -20,7 +20,7 @@
 		</p>
 		<nav>
 		<ul>
-			<li><a href="index.jsp">Home1</a></li>
+			<li><a href="index.jsp">Home Nagendra</a></li>
 			<li><a href="index.jsp">Contact us1</a></li>
 			<li><a href="signin.jsp">Sign in</a></li>
 		</ul>
